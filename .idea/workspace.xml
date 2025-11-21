@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0c108b9-eb74-4fd1-9c54-4820c4cc53f4" name="Changes" comment="add changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TransferService" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ostartt&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ostartt/bank-system-kafka&quot;,
+    &quot;accountId&quot;: &quot;f6cf3c23-6e8e-425d-b1f1-6ddc26d98c20&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32YwOg884s2ebd1JtFkOTDvagN0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DepositServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MockserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PaymentsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.WithdrawalServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;9f22777c&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/oklymk/Study/Java/kafka_projects/transactions_db&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;h2&quot;
+    ]
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="DepositServiceApplication" value="STOPPED" />
+              <entry key="MockserviceApplication" value="STOPPED" />
+              <entry key="PaymentsApplication" value="STOPPED" />
+              <entry key="WithdrawalServiceApplication" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DepositServiceApplication">
+    <configuration name="DepositServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="DepositService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.appsdeveloperblog.estore.DepositService.DepositServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Djava.rmi.server.hostname=localhost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.estore.DepositService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mockservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.appsdeveloperblog.ws.mockservice.MockserviceApplication" />
+      <option name="VM_PARAMETERS" value="-Djava.rmi.server.hostname=localhost" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="transfers" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.appsdeveloperblog.estore.transfers.PaymentsApplication" />
+      <option name="VM_PARAMETERS" value="-Djava.rmi.server.hostname=localhost" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithdrawalServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="WithdrawalService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.appsdeveloperblog.estore.WithdrawalService.WithdrawalServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Djava.rmi.server.hostname=localhost" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MockserviceApplication" />
+      <item itemvalue="Spring Boot.PaymentsApplication" />
+      <item itemvalue="Spring Boot.WithdrawalServiceApplication" />
+      <item itemvalue="Spring Boot.DepositServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DepositServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0c108b9-eb74-4fd1-9c54-4820c4cc53f4" name="Changes" comment="" />
+      <created>1757610782491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757610782491</updated>
+      <workItem from="1757610783664" duration="1662000" />
+      <workItem from="1757861508775" duration="2951000" />
+      <workItem from="1763674096007" duration="41000" />
+      <workItem from="1763733149002" duration="511000" />
+      <workItem from="1763733698660" duration="441000" />
+    </task>
+    <task id="LOCAL-00001" summary="add changes">
+      <option name="closed" value="true" />
+      <created>1763733415597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763733415597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add changes" />
+  </component>
+</project>
